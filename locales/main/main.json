@@ -1,0 +1,17 @@
+{
+    "app.title": {
+      "en": "Hello, World!",
+      "ar": "قرانديزر"
+    },
+
+    "app.subtitle": {
+      "en": "A template for relm4 + libadwaita apps",
+      "ar": "علّي علّي بطل فليد هيا طر يا قرنديزر"
+    },
+
+    "ui.counter": {
+      "en": "Counter:",
+      "ar": "عدّاد:"
+    }
+}
+  

@@ -1,0 +1,19 @@
+[package]
+name = "relm4-libadwaita-template"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+relm4 = { version = "0.7", features = ["libadwaita"] }
+relm4-components = "0.7"
+adw = { package = "libadwaita", version = "0.5" }
+gtk = { package = "gtk4", version = "0.7" }
+locales = "0.1.0"
+
+#[lib]
+#name = "app"
+#path = "src/lib.rs"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
